@@ -1,1 +1,3 @@
 # CodingStandards
+
+- Standars JSHint 
